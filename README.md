@@ -10,5 +10,5 @@ Examples:
 	python analyze_log.py geth-log-cm.txt
 
 	# Get the average Mgasps for the get log not using --codemerkleization flag
-        python analyze_log.py geth-log-no-cm.txt
+	python analyze_log.py geth-log-no-cm.txt
 
